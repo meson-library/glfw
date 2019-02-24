@@ -1,0 +1,14 @@
+option('build_examples',
+        description : 'Build the GLFW example programs.',
+        type        : 'boolean',
+        value       : false)
+
+option('build_tests',
+        description : 'Build the GLFW test programs.',
+        type        : 'boolean',
+        value       : false)
+
+option('use_hybrid_hpg',
+        description : 'Force use of high-performance GPU on hybrid systems.',
+        type        : 'boolean',
+        value       : false)
