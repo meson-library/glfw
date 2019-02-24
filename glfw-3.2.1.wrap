@@ -1,0 +1,4 @@
+[wrap-git]
+directory = glfw-3.2.1
+url = https://github.com/meson-librarie/glfw.git
+revision = v3.2.1
